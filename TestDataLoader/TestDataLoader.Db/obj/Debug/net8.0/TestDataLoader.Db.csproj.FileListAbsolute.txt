@@ -1,0 +1,12 @@
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/bin/Debug/net8.0/TestDataLoader.Db.deps.json
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/bin/Debug/net8.0/TestDataLoader.Db.dll
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/bin/Debug/net8.0/TestDataLoader.Db.pdb
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/obj/Debug/net8.0/TestDataLoader.Db.csproj.AssemblyReference.cache
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/obj/Debug/net8.0/TestDataLoader.Db.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/obj/Debug/net8.0/TestDataLoader.Db.AssemblyInfoInputs.cache
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/obj/Debug/net8.0/TestDataLoader.Db.AssemblyInfo.cs
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/obj/Debug/net8.0/TestDataLoader.Db.csproj.CoreCompileInputs.cache
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/obj/Debug/net8.0/TestDataLoader.Db.dll
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/obj/Debug/net8.0/refint/TestDataLoader.Db.dll
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/obj/Debug/net8.0/TestDataLoader.Db.pdb
+/Users/martinekman/personal/TestDataLoader/TestDataLoader/TestDataLoader.Db/obj/Debug/net8.0/ref/TestDataLoader.Db.dll
