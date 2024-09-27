@@ -4,7 +4,7 @@ using TestDataLoader.Db;
 
 namespace TestDataLoader.GraphQL.DataLoaders;
 
-public static class MyDataLoader
+public class MyDataLoader
 {
     [DataLoader]
     public static async Task<Dictionary<Guid, Foo>> GetFoos(
@@ -15,7 +15,7 @@ public static class MyDataLoader
     {
         var res = await context.Foos
             .Where(t => ids.Contains(t.Id))
-            .Select(selection)
+            .Select(selection, key: f => f.Id)
             .ToDictionaryAsync(t => t.Id, ct);
         return res;
     }
